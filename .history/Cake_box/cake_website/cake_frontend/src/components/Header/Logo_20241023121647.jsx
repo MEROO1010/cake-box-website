@@ -16,12 +16,13 @@ export default Logo
 const Container = styled.div `
 
 img{
-    width: 100px;
-    height:50px;
+    width: 200px;
+    height:100px;
+    position: relative;
     position:relative;
-    padding-bottom: 40px;
+    padding-bottom: 0px;
     padding-right:800px;
-    bottom:1060px;
+    bottom:940px;
     right:280px;
 }
 `

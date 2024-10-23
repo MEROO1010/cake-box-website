@@ -7,7 +7,7 @@ const Navbar = () => {
       {/*start the Nabbar*/}
       <ul>
         <li>
-          <a href="./components/HomePage/Homepage">Home</a>
+          <a href="default.asp">Home</a>
         </li>
         <li>
           <a href="Proudcts">Products</a>
@@ -34,24 +34,19 @@ const Container = styled.div`
     margin-left: 0px;
     padding-bottom: 0px;
     padding-right:100px;
-    bottom:1166px;
-    left:290px;
+    bottom:1060px;
+    left:27px;
     font-size: 20px;
     list-style-type: none;
     text-decoration: none;
     display: inline;
     position:relative;
-    float: left;
 
     a {
       text-decoration: none;
-      color: #FFFFFF;
+      color: black;
       font-weight: 620;
       font-size: 25px;
-    }
-
-    a:hover{
-        color:#FEF794
     }
   }
 `;

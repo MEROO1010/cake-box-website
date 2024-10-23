@@ -17,9 +17,10 @@ const Container = styled.div `
 
 img{
     width: 100px;
-    height:50px;
+    height:45px;
+    position: relative;
     position:relative;
-    padding-bottom: 40px;
+    padding-bottom: 0px;
     padding-right:800px;
     bottom:1060px;
     right:280px;

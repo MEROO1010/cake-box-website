@@ -7,7 +7,7 @@ const Navbar = () => {
       {/*start the Nabbar*/}
       <ul>
         <li>
-          <a href="./components/HomePage/Homepage">Home</a>
+          <a href="default.asp">Home</a>
         </li>
         <li>
           <a href="Proudcts">Products</a>

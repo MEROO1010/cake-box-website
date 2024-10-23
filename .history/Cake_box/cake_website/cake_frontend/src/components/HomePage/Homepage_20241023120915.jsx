@@ -1,8 +1,7 @@
 import React from 'react'
 import Homepagebg from '../assets/HomePage.png';
 import styled from 'styled-components';
-import Logo from '../Header/Logo'
-import Navbar from '../Header/Navbar';
+import Logo from '../components/Logo'
 
 const Homepage = () => {
   return (
@@ -14,7 +13,6 @@ const Homepage = () => {
 
     <button>Explore Now</button>
      <Logo/>
-     <Navbar/>
     </Container>
   )
 }

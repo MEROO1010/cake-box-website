@@ -19,7 +19,7 @@ img{
     width: 100px;
     height:50px;
     position:relative;
-    padding-bottom: 40px;
+    padding-bottom: 0px;
     padding-right:800px;
     bottom:1060px;
     right:280px;
