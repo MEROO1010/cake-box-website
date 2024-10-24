@@ -19,9 +19,9 @@ img{
     width: 100px;
     height:50px;
     position:absolute;
-    padding-bottom: 680px;
+    padding-bottom: 50px;
     padding-right:600px;
-    bottom:50px;
+    bottom:0px;
     left:100px;
 }
 `

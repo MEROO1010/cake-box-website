@@ -3,7 +3,6 @@ import Homepagebg from '../assets/HomePage.png';
 import styled from 'styled-components';
 import Logo from '../Header/Logo'
 import Navbar from '../Header/Navbar';
-import CakeIcons from './CakeIcons';
 
 const Homepage = () => {
   return (
@@ -16,7 +15,6 @@ const Homepage = () => {
     <button>Explore Now</button>
      <Logo/>
      <Navbar/>
-     <CakeIcons/>
     </Container>
   )
 }
@@ -40,11 +38,11 @@ const Container = styled.div`
 
   h1 {
     color: white;
-    font-size: 40px;
+    font-size: 50px;
     text-shadow: 9px 4px 4px rgba(0, 0, 0, 0.3);
     text-align: center;
     position:relative;
-    padding-top: 80px;
+    padding-top: 90px;
     bottom:620px;
     
   }

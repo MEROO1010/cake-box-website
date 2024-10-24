@@ -32,21 +32,20 @@ export default Navbar;
 const Container = styled.div`
   li {
     margin-left: 0px;
-    padding-bottom: 40px;
+    padding-bottom: 0px;
     padding-right:100px;
-    bottom:920px;
-    left:200px;
+    bottom:1160px;
+    left:290px;
     font-size: 20px;
     list-style-type: none;
     text-decoration: none;
     display: inline;
     position:relative;
     float: left;
-    
 
     a {
       text-decoration: none;
-      color: #000;
+      color: #FFFFFF;
       font-weight: 620;
       font-size: 25px;
     }

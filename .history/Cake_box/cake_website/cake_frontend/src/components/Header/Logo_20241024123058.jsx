@@ -18,10 +18,10 @@ const Container = styled.div `
 img{
     width: 100px;
     height:50px;
-    position:absolute;
-    padding-bottom: 680px;
+    position:static;
+    padding-bottom: 50px;
     padding-right:600px;
-    bottom:50px;
-    left:100px;
+    bottom:1000px;
+    right:290px;
 }
 `

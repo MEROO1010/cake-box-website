@@ -29,7 +29,7 @@ const Container = styled.div`
   img{
     width: 100px;
     height:100px;
-    display : inline-block;
+    display: inline-block;
     float: left;
     margin-left: 0px;
     padding-bottom: 40px;

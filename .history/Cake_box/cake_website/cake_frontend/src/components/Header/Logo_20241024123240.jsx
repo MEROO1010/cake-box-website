@@ -21,7 +21,7 @@ img{
     position:absolute;
     padding-bottom: 680px;
     padding-right:600px;
-    bottom:50px;
+    bottom:0px;
     left:100px;
 }
 `

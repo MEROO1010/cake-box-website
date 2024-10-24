@@ -3,7 +3,6 @@ import Homepagebg from '../assets/HomePage.png';
 import styled from 'styled-components';
 import Logo from '../Header/Logo'
 import Navbar from '../Header/Navbar';
-import CakeIcons from './CakeIcons';
 
 const Homepage = () => {
   return (
@@ -16,7 +15,6 @@ const Homepage = () => {
     <button>Explore Now</button>
      <Logo/>
      <Navbar/>
-     <CakeIcons/>
     </Container>
   )
 }

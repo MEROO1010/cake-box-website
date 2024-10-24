@@ -19,22 +19,7 @@ const CakeIcons = () => {
 export default CakeIcons
 
 const Container = styled.div`
-  ul{
-    list-style-type: none;
+  list-style-type: none;
     text-decoration: none;
     display: inline;
-    position:relative;
-  }
-
-  img{
-    width: 100px;
-    height:100px;
-    display : inline-block;
-    float: left;
-    margin-left: 0px;
-    padding-bottom: 40px;
-    padding-right:100px;
-    bottom:920px;
-    left:200px;
-  }
   `

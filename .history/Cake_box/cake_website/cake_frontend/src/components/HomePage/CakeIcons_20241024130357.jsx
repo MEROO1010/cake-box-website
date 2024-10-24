@@ -29,12 +29,7 @@ const Container = styled.div`
   img{
     width: 100px;
     height:100px;
-    display : inline-block;
-    float: left;
-    margin-left: 0px;
-    padding-bottom: 40px;
-    padding-right:100px;
-    bottom:920px;
-    left:200px;
+    display: inline-block;
+    float: left
   }
   `

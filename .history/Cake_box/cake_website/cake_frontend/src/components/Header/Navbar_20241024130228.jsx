@@ -32,7 +32,7 @@ export default Navbar;
 const Container = styled.div`
   li {
     margin-left: 0px;
-    padding-bottom: 40px;
+    padding-bottom: 10px;
     padding-right:100px;
     bottom:920px;
     left:200px;

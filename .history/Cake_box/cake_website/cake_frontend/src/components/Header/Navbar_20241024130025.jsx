@@ -32,9 +32,9 @@ export default Navbar;
 const Container = styled.div`
   li {
     margin-left: 0px;
-    padding-bottom: 40px;
+    padding-bottom: 0px;
     padding-right:100px;
-    bottom:920px;
+    bottom:1080px;
     left:200px;
     font-size: 20px;
     list-style-type: none;
@@ -46,7 +46,7 @@ const Container = styled.div`
 
     a {
       text-decoration: none;
-      color: #000;
+      color: #fff;
       font-weight: 620;
       font-size: 25px;
     }
