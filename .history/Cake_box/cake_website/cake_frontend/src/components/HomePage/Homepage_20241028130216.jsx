@@ -36,7 +36,7 @@ const Container = styled.div`
     height: auto; /* Maintain aspect ratio */
     object-fit: cover; /* Cover the container */
     position:static;
-    padding-top:40px;
+    margin-top:40px;
   }
 
   h1 {

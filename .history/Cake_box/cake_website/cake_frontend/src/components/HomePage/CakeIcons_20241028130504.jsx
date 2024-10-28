@@ -26,17 +26,17 @@ const Container = styled.div`
     position:relative;
     display : inline-block;
     flex-direction: row;
-    display: flex;
   }
 
   img{
-    width: 200px;
-    height:200px;    
+    width: 100px;
+    height:100px;
+    
     float: left;
+    margin-left: 0px;
     padding-bottom: 40px;
-    padding-right:250px;
-    bottom:200px;
-    left:100px;
-    position:relative;
+    padding-right:100px;
+    bottom:920px;
+    left:200px;
   }
   `

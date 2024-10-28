@@ -16,7 +16,7 @@ const Homepage = () => {
     <button>Explore Now</button>
      <Logo/>
      <Navbar/>
-     <CakeIcons/>
+     
     </Container>
   )
 }
@@ -36,7 +36,6 @@ const Container = styled.div`
     height: auto; /* Maintain aspect ratio */
     object-fit: cover; /* Cover the container */
     position:static;
-    padding-top:40px;
   }
 
   h1 {

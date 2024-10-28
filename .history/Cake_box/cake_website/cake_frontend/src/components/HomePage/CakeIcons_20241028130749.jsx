@@ -33,10 +33,11 @@ const Container = styled.div`
     width: 200px;
     height:200px;    
     float: left;
+    margin-left: 20px;
     padding-bottom: 40px;
     padding-right:250px;
-    bottom:200px;
+    bottom:920px;
     left:100px;
-    position:relative;
+    position:static;
   }
   `

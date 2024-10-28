@@ -14,8 +14,8 @@ const Homepage = () => {
     <h1>Cakes<br/> Crafted<br/> with<br/> Love</h1>
 
     <button>Explore Now</button>
-     <Logo/>
-     <Navbar/>
+     
+     
      <CakeIcons/>
     </Container>
   )

@@ -15,7 +15,7 @@ const Homepage = () => {
 
     <button>Explore Now</button>
      <Logo/>
-     <Navbar/>
+     
      <CakeIcons/>
     </Container>
   )
